@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:title="@string/font_size">
+        <menu>
+            <group android:checkableBehavior="single" >
+                <item
+                    android:id="@+id/font_10"
+                    android:title="@string/font_10"
+                    />
+                <item
+                    android:id="@+id/font_20"
+                    android:title="@string/font_20"/>
+                <item
+                    android:id="@+id/font_30"
+                    android:title="@string/font_30"/>
+            </group>
+        </menu>
+    </item>
+    <item
+        android:title="@string/plain_item"
+        android:id="@+id/menu_plain_menu" >
+    </item>
+    <item android:title="字体颜色">
+        <menu>
+            <group>
+                <item
+                    android:title="蓝色"
+                    android:id="@+id/blue_font" />
+                <item
+                    android:title="绿色"
+                    android:id="@+id/green_font" />
+            </group>
+        </menu>
+    </item>
+
+</menu>

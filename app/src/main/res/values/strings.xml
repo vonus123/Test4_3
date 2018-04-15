@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">上下文菜单</string>
+    <string name="red_title">红色</string>
+    <string name="blue_title">蓝色</string>
+    <string name="green_title">绿色</string>
+    <string name="font_size">字体大小</string>
+    <string name="font_color">字体颜色</string>
+    <string name="plain_item">普通菜单项</string>
+    <string name="font_10">10号字体</string>
+    <string name="font_30">30号字体</string>
+    <string name="font_20">20号字体</string>
+
+</resources>
